@@ -3,6 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/bottom_nav_selector.xml" value="0.2015625" />
+        <entry key="app/src/main/res/drawable/ic_add_black.xml" value="0.2015625" />
+        <entry key="app/src/main/res/drawable/ic_close_white.xml" value="0.2015625" />
+        <entry key="app/src/main/res/drawable/ic_delete.xml" value="0.2015625" />
+        <entry key="app/src/main/res/drawable/ic_directions_run_black_24dp.xml" value="0.2015625" />
+        <entry key="app/src/main/res/drawable/ic_graph.xml" value="0.2015625" />
+        <entry key="app/src/main/res/drawable/ic_pause_black_24dp.xml" value="0.2015625" />
+        <entry key="app/src/main/res/drawable/ic_run.xml" value="0.2015625" />
+        <entry key="app/src/main/res/drawable/ic_settings.xml" value="0.2015625" />
+        <entry key="app/src/main/res/drawable/ic_stop_black_24dp.xml" value="0.2015625" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.17135416666666667" />
         <entry key="app/src/main/res/layout/fragment_run.xml" value="0.15579710144927536" />
         <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.18541666666666667" />
