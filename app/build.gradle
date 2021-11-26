@@ -1,6 +1,7 @@
 plugins {
     id 'com.android.application'
     id 'kotlin-android'
+    id 'kotlin-android-extensions'
     id("dagger.hilt.android.plugin")
 }
 
@@ -35,11 +36,13 @@ android {
 dependencies {
 //    apply plugin: 'kotlin-android-extensions'
     implementation("com.google.dagger:hilt-android:2.38.1")
-    apply plugin: 'kotlin-parcelize'
+//    apply plugin: 'kotlin-parcelize'
     apply plugin: 'kotlin-kapt'
     apply plugin: "androidx.navigation.safeargs"
     apply plugin: "dagger.hilt.android.plugin"
     kapt "com.google.dagger:hilt-android-compiler:2.40"
+    apply plugin: 'kotlin-android-extensions'
+
 
     implementation 'androidx.core:core-ktx:1.7.0'
     implementation 'androidx.appcompat:appcompat:1.3.1'
